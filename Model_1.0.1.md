@@ -3,7 +3,7 @@
 
 ### Update
 - Optimized the visual effect of the model's eyes
-- made ome negligible updates
+- made some negligible updates
 - ...
 ### related link
 https://hub.vroid.com/en/characters/4520491757487374041/models/4635744930176060720
