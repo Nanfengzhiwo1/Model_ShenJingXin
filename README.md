@@ -13,4 +13,4 @@ version:VRoidStudio 1.22.1
 
 
 # related link
-https://hub.vroid.com/characters/4520491757487374041/models/1600013062954449787
+[Vroid_沈镜心](https://hub.vroid.com/characters/4520491757487374041/models/1600013062954449787)
